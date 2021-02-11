@@ -2,9 +2,9 @@
 using System.Diagnostics;
 using System.Net.Http;
 using System.Threading.Tasks;
-using TestingAssement.UserApi.Models;
+using TestingAssessment.UserApi.Models;
 
-namespace TestingAssement.UserApi
+namespace TestingAssessment.UserApi
 {
     public class UserApiCaller : IUserApiCaller
     {

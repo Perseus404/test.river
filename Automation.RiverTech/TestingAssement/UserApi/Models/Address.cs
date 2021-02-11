@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace TestingAssement.UserApi.Models
+namespace TestingAssessment.UserApi.Models
 {
     public class Address
     {

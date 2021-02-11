@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace TestingAssement.Feature
+namespace TestingAssessment.Feature
 {
     using TechTalk.SpecFlow;
     using System;
@@ -35,7 +35,7 @@ namespace TestingAssement.Feature
 #line 1 "UsersApi.feature"
 #line hidden
         
-        public UserApiFeature(UserApiFeature.FixtureData fixtureData, TestingAssement_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
+        public UserApiFeature(UserApiFeature.FixtureData fixtureData, TestingAssessment_XUnitAssemblyFixture assemblyFixture, Xunit.Abstractions.ITestOutputHelper testOutputHelper)
         {
             this._testOutputHelper = testOutputHelper;
             this.TestInitialize();

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 
-namespace TestingAssement.UserApi.Models
+namespace TestingAssessment.UserApi.Models
 {
     public class UsersApiResponse
     {

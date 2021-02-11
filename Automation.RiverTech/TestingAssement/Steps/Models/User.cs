@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TestingAssement.Steps.Models
+namespace TestingAssessment.Steps.Models
 {
     public class User
     {

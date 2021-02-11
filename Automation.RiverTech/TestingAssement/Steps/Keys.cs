@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TestingAssement.Steps
+namespace TestingAssessment.Steps
 {
     public enum Keys
     {

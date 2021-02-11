@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QBMl/YlKzZz5Ki1x7/7B+B+LUTCKlJKGBSqBWE4ML+3mbtgfOhc/I9t+KLRvTF2x0zIW3RawE2EzfLG+lfKDZA==",
+  "dgSpecHash": "2jqkQDSPLKv1h64ry62Cc27Aa7FeS4VCmNHN3bHgbmqyAhOhk/A7fmEcMxX27F3ZwxWVN1uzNyZ3yQhRrJodag==",
   "success": true,
-  "projectFilePath": "C:\\Code\\test.river\\Automation.RiverTech\\TestingAssement\\TestingAssement.csproj",
+  "projectFilePath": "C:\\Code\\test.river\\Automation.RiverTech\\TestingAssement\\TestingAssessment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RiverTech-TempUser\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\RiverTech-TempUser\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",

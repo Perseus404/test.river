@@ -6437,9 +6437,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\test.river\\Automation.RiverTech\\TestingAssement\\TestingAssement.csproj",
-      "projectName": "TestingAssement",
-      "projectPath": "C:\\Code\\test.river\\Automation.RiverTech\\TestingAssement\\TestingAssement.csproj",
+      "projectUniqueName": "C:\\Code\\test.river\\Automation.RiverTech\\TestingAssement\\TestingAssessment.csproj",
+      "projectName": "TestingAssessment",
+      "projectPath": "C:\\Code\\test.river\\Automation.RiverTech\\TestingAssement\\TestingAssessment.csproj",
       "packagesPath": "C:\\Users\\RiverTech-TempUser\\.nuget\\packages\\",
       "outputPath": "C:\\Code\\test.river\\Automation.RiverTech\\TestingAssement\\obj\\",
       "projectStyle": "PackageReference",

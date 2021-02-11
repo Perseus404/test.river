@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using TestingAssement.UserApi.Models;
+using TestingAssessment.UserApi.Models;
 
-namespace TestingAssement.UserApi
+namespace TestingAssessment.UserApi
 {
     public interface IUserApiCaller
     {

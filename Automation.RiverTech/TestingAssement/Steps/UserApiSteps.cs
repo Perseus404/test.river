@@ -2,12 +2,12 @@
 using System.Threading.Tasks;
 using TechTalk.SpecFlow;
 using TechTalk.SpecFlow.Assist;
-using TestingAssement.Steps.Models;
-using TestingAssement.UserApi;
-using TestingAssement.UserApi.Models;
+using TestingAssessment.Steps.Models;
+using TestingAssessment.UserApi;
+using TestingAssessment.UserApi.Models;
 using Xunit;
 
-namespace TestingAssement.Steps
+namespace TestingAssessment.Steps
 {
     [Binding]
     public class UserApiSteps

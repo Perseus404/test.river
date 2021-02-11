@@ -3,3 +3,5 @@
 - Log into elastic
 - Add logic on labels
 - Split the projects into for features, steps, maybe utilities this was not done as the project is too small
+- More uses of personas
+- Use scenario context objects to assert with

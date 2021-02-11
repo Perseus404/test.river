@@ -108,3 +108,4 @@ C:\Code\test.river\Automation.RiverTech\TestingAssement\obj\Debug\netcoreapp3.1\
 C:\Code\test.river\Automation.RiverTech\TestingAssement\obj\Debug\netcoreapp3.1\TestingAssessment.dll
 C:\Code\test.river\Automation.RiverTech\TestingAssement\obj\Debug\netcoreapp3.1\TestingAssessment.pdb
 C:\Code\test.river\Automation.RiverTech\TestingAssement\obj\Debug\netcoreapp3.1\TestingAssessment.genruntimeconfig.cache
+C:\Code\test.river\Automation.RiverTech\TestingAssement\bin\Debug\netcoreapp3.1\WebDriver.dll

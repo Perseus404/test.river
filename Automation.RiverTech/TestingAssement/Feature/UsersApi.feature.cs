@@ -165,7 +165,7 @@ this.ScenarioInitialize(scenarioInfo);
 #line 16
  testRunner.Then("the http status code for \'Users/1\' endpoint was \'200\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
-                TechTalk.SpecFlow.Table table1 = new TechTalk.SpecFlow.Table(new string[] {
+                TechTalk.SpecFlow.Table table3 = new TechTalk.SpecFlow.Table(new string[] {
                             "id",
                             "name",
                             "username",
@@ -181,7 +181,7 @@ this.ScenarioInitialize(scenarioInfo);
                             "companyName",
                             "catchPhrase",
                             "bs"});
-                table1.AddRow(new string[] {
+                table3.AddRow(new string[] {
                             "1",
                             "Leanne Graham",
                             "Bret",
@@ -198,7 +198,7 @@ this.ScenarioInitialize(scenarioInfo);
                             "Multi-layered client-server neural-net",
                             "harness real-time e-markets"});
 #line 17
- testRunner.And("the details for \'Users/1\' were the following:", ((string)(null)), table1, "And ");
+ testRunner.And("the details for \'Users/1\' were the following:", ((string)(null)), table3, "And ");
 #line hidden
             }
             this.ScenarioCleanup();

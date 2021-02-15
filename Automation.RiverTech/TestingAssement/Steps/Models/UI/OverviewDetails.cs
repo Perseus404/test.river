@@ -2,8 +2,15 @@
 {
     public class OverviewDetails
     {
-        public decimal Total { get; set; }
-        public decimal Tax { get; set; }
-        public decimal ItemTotal { get; set; }
+        public OverviewDetails(decimal total, decimal tax, decimal itemTotal)
+        {
+            Total = total;
+            Tax = tax;
+            ItemTotal = itemTotal;
+        }
+
+        public decimal Total { get; }
+        public decimal Tax { get; }
+        public decimal ItemTotal { get; }
     }
 }
